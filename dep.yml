@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: kohyuk91/web-argo:1
+        image: kohyuk91/web-argo:2
